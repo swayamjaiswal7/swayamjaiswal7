@@ -31,12 +31,6 @@ A cricket analytics project analyzing batting intent using strike rate, boundary
 ### 💰 [Budgetanalyzer](https://github.com/swayamjaiswal7/Budgetanalyzer)
 Personal finance dashboard built in Python to track expenses and visualize monthly spending habits with actionable insights.
 
-### 🏆 [IPL 2023 Data Analysis](https://github.com/swayamjaiswal7/IPL-2023-Data-Analysis)
-Full-season IPL performance breakdown—team metrics, player stats, and match outcomes using Python, Pandas, and Matplotlib.
-
-### 🎬 [Netflix EDA](https://github.com/swayamjaiswal7/Netflix-EDA)
-Content analytics on Netflix’s catalog—genre distributions, popular countries, and release timelines visualized and interpreted.
-
 ---
 
 ## 📫 Connect with Me
