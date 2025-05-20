@@ -41,9 +41,9 @@ Content analytics on Netflix’s catalog—genre distributions, popular countrie
 
 ## 📫 Connect with Me
 
-- 📧 Email: swayamjaiswal.official@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/swayamjaiswal7/)  
-- 🐍 [Kaggle](https://www.kaggle.com/swayamjaiswal)  
+- 📧 Email: jswayam341@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/swayamjaiswal/)  
+- 🐍 [Kaggle](https://www.kaggle.com/swayamjaiswal7)  
 - 📚 [Portfolio](https://swayamjaiswal7.github.io/)
 
 ---
