@@ -21,6 +21,8 @@
 ---
 
 ## 📌 Highlight Projects
+### 📈 [Saleseda](https://github.com/swayamjaiswal7/Ecommerce_analysis)
+RFM and Churn Analysis using Python and visualization tools.
 
 ### 📊 [Saleseda](https://github.com/swayamjaiswal7/Saleseda)
 EDA of electronic devices market data—uncovering trends in features, pricing, and customer preferences using Python and visualization tools.
