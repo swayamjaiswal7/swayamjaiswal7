@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Highlight Projects
-### 📈 [Saleseda](https://github.com/swayamjaiswal7/Ecommerce_analysis)
+### 📈 [Retail Sales Analysis](https://github.com/swayamjaiswal7/Ecommerce_analysis)
 RFM and Churn Analysis using Python and visualization tools.
 
 ### 📊 [Saleseda](https://github.com/swayamjaiswal7/Saleseda)
