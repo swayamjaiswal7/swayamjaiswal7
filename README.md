@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swayam Jaiswal
 
-Msc Statistics | 📊 Aspiring Data Analyst |Python|SQL| ML| DL| NLP📍 Mumbai, India | 📈 Turning Data into Decisions
+Msc Statistics | 📊 Aspiring Data Analyst |Python |SQL |ML |DL | NLP | 📈 Turning Data into Decisions
 
 ---
 
