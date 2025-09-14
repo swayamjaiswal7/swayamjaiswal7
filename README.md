@@ -12,7 +12,6 @@ Msc Statistics | 📊 Aspiring Data Analyst |Python|SQL| ML| DL| NLP📍 Mumbai,
 <img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Tableau" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br><br>
