@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Swayam Jaiswal
 
-🎓 Recent Statistics Graduate | 📊 Aspiring Data Analyst | 
-📍 Mumbai, India | 📈 Turning Data into Decisions
+Msc Statistics | 📊 Aspiring Data Analyst |Python|SQL| ML| DL| NLP📍 Mumbai, India | 📈 Turning Data into Decisions
 
 ---
 
@@ -80,4 +79,4 @@ Personal finance dashboard built in Python to track expenses and visualize month
 ---
 
 ⭐ _"Always exploring intersections of data, logic, and human behavior."_  
-🧩 _Open to collaborations, internships, and data-centric roles._
+🧩 _Open to collaborations and data-centric roles._
