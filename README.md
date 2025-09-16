@@ -18,21 +18,6 @@ Msc Statistics | 📊 Aspiring Data Analyst |Python |SQL |ML |DL | NLP | 📈 Tu
 
 ---
 
-## 📌 Highlight Projects
-### 📈 [Customer Segmentation](https://github.com/swayamjaiswal7/Ecommerce_analysis)
-RFM and Churn Analysis using Python and visualization tools.
-
-### 📊 [Electronic Sales Analysis](https://github.com/swayamjaiswal7/Saleseda)
-EDA of electronic devices market data—uncovering trends in features, pricing, and customer preferences using Python and visualization tools.
-
-### 🏏 [Batting Intent Analysis - IPL 2025](https://github.com/swayamjaiswal7/Batting_Intent_Analysis)
-A cricket analytics project analyzing batting intent using strike rate, boundary frequency, and phase-wise performance for IPL match insights.
-
-### 💰 [Budgetanalyzer](https://github.com/swayamjaiswal7/Budgetanalyzer)
-Personal finance dashboard built in Python to track expenses and visualize monthly spending habits with actionable insights.
-
----
-
 ## 🧮 Streak-stats:
 
 <p align="center">
