@@ -21,10 +21,9 @@ Msc Statistics | 📊 Aspiring Data Analyst |Python |SQL |ML |DL | NLP | 📈 Tu
 ## 🔗 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swayamjaiswal" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-- 📚 [Portfolio](https://swayamjaiswal7.github.io/)
+- 🔗 Linkedin : www.linkedin.com/in/swayamjaiswal/
+- 📚 Portfolio :(https://swayamjaiswal7.github.io/)
 - 📧 Email: jswayam341@gmail.com 
+- 📄 Resume : https://tinyurl.com/Swayam-Jaiswal-Resume
 
 - 🧩 _Open to collaborations and data-centric roles._
